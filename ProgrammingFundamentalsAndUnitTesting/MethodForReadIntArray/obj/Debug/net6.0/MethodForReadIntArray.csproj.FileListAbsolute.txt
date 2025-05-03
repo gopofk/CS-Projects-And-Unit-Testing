@@ -1,0 +1,4 @@
+C:\Users\Goro\Desktop\Programing\SoftUni\QA\Programming Fundamentals and Unit Testing\VSrepo\SecondProjectCS\ConsoleApp1\MethodForReadIntArray\obj\Debug\net6.0\MethodForReadIntArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Goro\Desktop\Programing\SoftUni\QA\Programming Fundamentals and Unit Testing\VSrepo\SecondProjectCS\ConsoleApp1\MethodForReadIntArray\obj\Debug\net6.0\MethodForReadIntArray.AssemblyInfoInputs.cache
+C:\Users\Goro\Desktop\Programing\SoftUni\QA\Programming Fundamentals and Unit Testing\VSrepo\SecondProjectCS\ConsoleApp1\MethodForReadIntArray\obj\Debug\net6.0\MethodForReadIntArray.AssemblyInfo.cs
+C:\Users\Goro\Desktop\Programing\SoftUni\QA\Programming Fundamentals and Unit Testing\VSrepo\SecondProjectCS\ConsoleApp1\MethodForReadIntArray\obj\Debug\net6.0\MethodForReadIntArray.csproj.CoreCompileInputs.cache

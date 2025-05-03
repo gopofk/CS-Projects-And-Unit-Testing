@@ -1,0 +1,14 @@
+C:\Users\Goro\Desktop\Programing\SoftUni\QA\Programming Fundamentals and Unit Testing\VSrepo\SecondProjectCS\ConsoleApp1\4.MagicSum\bin\Debug\net6.0\4.MagicSum.exe
+C:\Users\Goro\Desktop\Programing\SoftUni\QA\Programming Fundamentals and Unit Testing\VSrepo\SecondProjectCS\ConsoleApp1\4.MagicSum\bin\Debug\net6.0\4.MagicSum.deps.json
+C:\Users\Goro\Desktop\Programing\SoftUni\QA\Programming Fundamentals and Unit Testing\VSrepo\SecondProjectCS\ConsoleApp1\4.MagicSum\bin\Debug\net6.0\4.MagicSum.runtimeconfig.json
+C:\Users\Goro\Desktop\Programing\SoftUni\QA\Programming Fundamentals and Unit Testing\VSrepo\SecondProjectCS\ConsoleApp1\4.MagicSum\bin\Debug\net6.0\4.MagicSum.dll
+C:\Users\Goro\Desktop\Programing\SoftUni\QA\Programming Fundamentals and Unit Testing\VSrepo\SecondProjectCS\ConsoleApp1\4.MagicSum\bin\Debug\net6.0\4.MagicSum.pdb
+C:\Users\Goro\Desktop\Programing\SoftUni\QA\Programming Fundamentals and Unit Testing\VSrepo\SecondProjectCS\ConsoleApp1\4.MagicSum\obj\Debug\net6.0\4.MagicSum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Goro\Desktop\Programing\SoftUni\QA\Programming Fundamentals and Unit Testing\VSrepo\SecondProjectCS\ConsoleApp1\4.MagicSum\obj\Debug\net6.0\4.MagicSum.AssemblyInfoInputs.cache
+C:\Users\Goro\Desktop\Programing\SoftUni\QA\Programming Fundamentals and Unit Testing\VSrepo\SecondProjectCS\ConsoleApp1\4.MagicSum\obj\Debug\net6.0\4.MagicSum.AssemblyInfo.cs
+C:\Users\Goro\Desktop\Programing\SoftUni\QA\Programming Fundamentals and Unit Testing\VSrepo\SecondProjectCS\ConsoleApp1\4.MagicSum\obj\Debug\net6.0\4.MagicSum.csproj.CoreCompileInputs.cache
+C:\Users\Goro\Desktop\Programing\SoftUni\QA\Programming Fundamentals and Unit Testing\VSrepo\SecondProjectCS\ConsoleApp1\4.MagicSum\obj\Debug\net6.0\4.MagicSum.dll
+C:\Users\Goro\Desktop\Programing\SoftUni\QA\Programming Fundamentals and Unit Testing\VSrepo\SecondProjectCS\ConsoleApp1\4.MagicSum\obj\Debug\net6.0\refint\4.MagicSum.dll
+C:\Users\Goro\Desktop\Programing\SoftUni\QA\Programming Fundamentals and Unit Testing\VSrepo\SecondProjectCS\ConsoleApp1\4.MagicSum\obj\Debug\net6.0\4.MagicSum.pdb
+C:\Users\Goro\Desktop\Programing\SoftUni\QA\Programming Fundamentals and Unit Testing\VSrepo\SecondProjectCS\ConsoleApp1\4.MagicSum\obj\Debug\net6.0\4.MagicSum.genruntimeconfig.cache
+C:\Users\Goro\Desktop\Programing\SoftUni\QA\Programming Fundamentals and Unit Testing\VSrepo\SecondProjectCS\ConsoleApp1\4.MagicSum\obj\Debug\net6.0\ref\4.MagicSum.dll

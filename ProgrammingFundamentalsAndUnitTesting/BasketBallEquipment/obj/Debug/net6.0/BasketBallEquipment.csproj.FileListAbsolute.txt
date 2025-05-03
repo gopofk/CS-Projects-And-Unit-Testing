@@ -1,0 +1,14 @@
+C:\Users\Goro\Desktop\Programing\SoftUni\QA\Programming Fundamentals and Unit Testing\VSrepo\SecondProjectCS\ConsoleApp1\BasketBallEquipment\bin\Debug\net6.0\BasketBallEquipment.exe
+C:\Users\Goro\Desktop\Programing\SoftUni\QA\Programming Fundamentals and Unit Testing\VSrepo\SecondProjectCS\ConsoleApp1\BasketBallEquipment\bin\Debug\net6.0\BasketBallEquipment.deps.json
+C:\Users\Goro\Desktop\Programing\SoftUni\QA\Programming Fundamentals and Unit Testing\VSrepo\SecondProjectCS\ConsoleApp1\BasketBallEquipment\bin\Debug\net6.0\BasketBallEquipment.runtimeconfig.json
+C:\Users\Goro\Desktop\Programing\SoftUni\QA\Programming Fundamentals and Unit Testing\VSrepo\SecondProjectCS\ConsoleApp1\BasketBallEquipment\bin\Debug\net6.0\BasketBallEquipment.dll
+C:\Users\Goro\Desktop\Programing\SoftUni\QA\Programming Fundamentals and Unit Testing\VSrepo\SecondProjectCS\ConsoleApp1\BasketBallEquipment\bin\Debug\net6.0\BasketBallEquipment.pdb
+C:\Users\Goro\Desktop\Programing\SoftUni\QA\Programming Fundamentals and Unit Testing\VSrepo\SecondProjectCS\ConsoleApp1\BasketBallEquipment\obj\Debug\net6.0\BasketBallEquipment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Goro\Desktop\Programing\SoftUni\QA\Programming Fundamentals and Unit Testing\VSrepo\SecondProjectCS\ConsoleApp1\BasketBallEquipment\obj\Debug\net6.0\BasketBallEquipment.AssemblyInfoInputs.cache
+C:\Users\Goro\Desktop\Programing\SoftUni\QA\Programming Fundamentals and Unit Testing\VSrepo\SecondProjectCS\ConsoleApp1\BasketBallEquipment\obj\Debug\net6.0\BasketBallEquipment.AssemblyInfo.cs
+C:\Users\Goro\Desktop\Programing\SoftUni\QA\Programming Fundamentals and Unit Testing\VSrepo\SecondProjectCS\ConsoleApp1\BasketBallEquipment\obj\Debug\net6.0\BasketBallEquipment.csproj.CoreCompileInputs.cache
+C:\Users\Goro\Desktop\Programing\SoftUni\QA\Programming Fundamentals and Unit Testing\VSrepo\SecondProjectCS\ConsoleApp1\BasketBallEquipment\obj\Debug\net6.0\BasketBallEquipment.dll
+C:\Users\Goro\Desktop\Programing\SoftUni\QA\Programming Fundamentals and Unit Testing\VSrepo\SecondProjectCS\ConsoleApp1\BasketBallEquipment\obj\Debug\net6.0\refint\BasketBallEquipment.dll
+C:\Users\Goro\Desktop\Programing\SoftUni\QA\Programming Fundamentals and Unit Testing\VSrepo\SecondProjectCS\ConsoleApp1\BasketBallEquipment\obj\Debug\net6.0\BasketBallEquipment.pdb
+C:\Users\Goro\Desktop\Programing\SoftUni\QA\Programming Fundamentals and Unit Testing\VSrepo\SecondProjectCS\ConsoleApp1\BasketBallEquipment\obj\Debug\net6.0\BasketBallEquipment.genruntimeconfig.cache
+C:\Users\Goro\Desktop\Programing\SoftUni\QA\Programming Fundamentals and Unit Testing\VSrepo\SecondProjectCS\ConsoleApp1\BasketBallEquipment\obj\Debug\net6.0\ref\BasketBallEquipment.dll

@@ -1,0 +1,14 @@
+C:\Users\Goro\Desktop\Programing\SoftUni\QA\Programming Fundamentals and Unit Testing\VSrepo\SecondProjectCS\ConsoleApp1\1.NumbersInRange\bin\Debug\net6.0\1.NumbersInRange.exe
+C:\Users\Goro\Desktop\Programing\SoftUni\QA\Programming Fundamentals and Unit Testing\VSrepo\SecondProjectCS\ConsoleApp1\1.NumbersInRange\bin\Debug\net6.0\1.NumbersInRange.deps.json
+C:\Users\Goro\Desktop\Programing\SoftUni\QA\Programming Fundamentals and Unit Testing\VSrepo\SecondProjectCS\ConsoleApp1\1.NumbersInRange\bin\Debug\net6.0\1.NumbersInRange.runtimeconfig.json
+C:\Users\Goro\Desktop\Programing\SoftUni\QA\Programming Fundamentals and Unit Testing\VSrepo\SecondProjectCS\ConsoleApp1\1.NumbersInRange\bin\Debug\net6.0\1.NumbersInRange.dll
+C:\Users\Goro\Desktop\Programing\SoftUni\QA\Programming Fundamentals and Unit Testing\VSrepo\SecondProjectCS\ConsoleApp1\1.NumbersInRange\bin\Debug\net6.0\1.NumbersInRange.pdb
+C:\Users\Goro\Desktop\Programing\SoftUni\QA\Programming Fundamentals and Unit Testing\VSrepo\SecondProjectCS\ConsoleApp1\1.NumbersInRange\obj\Debug\net6.0\1.NumbersInRange.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Goro\Desktop\Programing\SoftUni\QA\Programming Fundamentals and Unit Testing\VSrepo\SecondProjectCS\ConsoleApp1\1.NumbersInRange\obj\Debug\net6.0\1.NumbersInRange.AssemblyInfoInputs.cache
+C:\Users\Goro\Desktop\Programing\SoftUni\QA\Programming Fundamentals and Unit Testing\VSrepo\SecondProjectCS\ConsoleApp1\1.NumbersInRange\obj\Debug\net6.0\1.NumbersInRange.AssemblyInfo.cs
+C:\Users\Goro\Desktop\Programing\SoftUni\QA\Programming Fundamentals and Unit Testing\VSrepo\SecondProjectCS\ConsoleApp1\1.NumbersInRange\obj\Debug\net6.0\1.NumbersInRange.csproj.CoreCompileInputs.cache
+C:\Users\Goro\Desktop\Programing\SoftUni\QA\Programming Fundamentals and Unit Testing\VSrepo\SecondProjectCS\ConsoleApp1\1.NumbersInRange\obj\Debug\net6.0\1.NumbersInRange.dll
+C:\Users\Goro\Desktop\Programing\SoftUni\QA\Programming Fundamentals and Unit Testing\VSrepo\SecondProjectCS\ConsoleApp1\1.NumbersInRange\obj\Debug\net6.0\refint\1.NumbersInRange.dll
+C:\Users\Goro\Desktop\Programing\SoftUni\QA\Programming Fundamentals and Unit Testing\VSrepo\SecondProjectCS\ConsoleApp1\1.NumbersInRange\obj\Debug\net6.0\1.NumbersInRange.pdb
+C:\Users\Goro\Desktop\Programing\SoftUni\QA\Programming Fundamentals and Unit Testing\VSrepo\SecondProjectCS\ConsoleApp1\1.NumbersInRange\obj\Debug\net6.0\1.NumbersInRange.genruntimeconfig.cache
+C:\Users\Goro\Desktop\Programing\SoftUni\QA\Programming Fundamentals and Unit Testing\VSrepo\SecondProjectCS\ConsoleApp1\1.NumbersInRange\obj\Debug\net6.0\ref\1.NumbersInRange.dll

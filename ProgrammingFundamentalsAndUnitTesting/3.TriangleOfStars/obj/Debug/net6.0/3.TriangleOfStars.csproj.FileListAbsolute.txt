@@ -1,0 +1,14 @@
+C:\Users\Goro\Desktop\Programing\SoftUni\QA\Programming Fundamentals and Unit Testing\VSrepo\SecondProjectCS\ConsoleApp1\3.TriangleOfStars\bin\Debug\net6.0\3.TriangleOfStars.exe
+C:\Users\Goro\Desktop\Programing\SoftUni\QA\Programming Fundamentals and Unit Testing\VSrepo\SecondProjectCS\ConsoleApp1\3.TriangleOfStars\bin\Debug\net6.0\3.TriangleOfStars.deps.json
+C:\Users\Goro\Desktop\Programing\SoftUni\QA\Programming Fundamentals and Unit Testing\VSrepo\SecondProjectCS\ConsoleApp1\3.TriangleOfStars\bin\Debug\net6.0\3.TriangleOfStars.runtimeconfig.json
+C:\Users\Goro\Desktop\Programing\SoftUni\QA\Programming Fundamentals and Unit Testing\VSrepo\SecondProjectCS\ConsoleApp1\3.TriangleOfStars\bin\Debug\net6.0\3.TriangleOfStars.dll
+C:\Users\Goro\Desktop\Programing\SoftUni\QA\Programming Fundamentals and Unit Testing\VSrepo\SecondProjectCS\ConsoleApp1\3.TriangleOfStars\bin\Debug\net6.0\3.TriangleOfStars.pdb
+C:\Users\Goro\Desktop\Programing\SoftUni\QA\Programming Fundamentals and Unit Testing\VSrepo\SecondProjectCS\ConsoleApp1\3.TriangleOfStars\obj\Debug\net6.0\3.TriangleOfStars.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Goro\Desktop\Programing\SoftUni\QA\Programming Fundamentals and Unit Testing\VSrepo\SecondProjectCS\ConsoleApp1\3.TriangleOfStars\obj\Debug\net6.0\3.TriangleOfStars.AssemblyInfoInputs.cache
+C:\Users\Goro\Desktop\Programing\SoftUni\QA\Programming Fundamentals and Unit Testing\VSrepo\SecondProjectCS\ConsoleApp1\3.TriangleOfStars\obj\Debug\net6.0\3.TriangleOfStars.AssemblyInfo.cs
+C:\Users\Goro\Desktop\Programing\SoftUni\QA\Programming Fundamentals and Unit Testing\VSrepo\SecondProjectCS\ConsoleApp1\3.TriangleOfStars\obj\Debug\net6.0\3.TriangleOfStars.csproj.CoreCompileInputs.cache
+C:\Users\Goro\Desktop\Programing\SoftUni\QA\Programming Fundamentals and Unit Testing\VSrepo\SecondProjectCS\ConsoleApp1\3.TriangleOfStars\obj\Debug\net6.0\3.TriangleOfStars.dll
+C:\Users\Goro\Desktop\Programing\SoftUni\QA\Programming Fundamentals and Unit Testing\VSrepo\SecondProjectCS\ConsoleApp1\3.TriangleOfStars\obj\Debug\net6.0\refint\3.TriangleOfStars.dll
+C:\Users\Goro\Desktop\Programing\SoftUni\QA\Programming Fundamentals and Unit Testing\VSrepo\SecondProjectCS\ConsoleApp1\3.TriangleOfStars\obj\Debug\net6.0\3.TriangleOfStars.pdb
+C:\Users\Goro\Desktop\Programing\SoftUni\QA\Programming Fundamentals and Unit Testing\VSrepo\SecondProjectCS\ConsoleApp1\3.TriangleOfStars\obj\Debug\net6.0\3.TriangleOfStars.genruntimeconfig.cache
+C:\Users\Goro\Desktop\Programing\SoftUni\QA\Programming Fundamentals and Unit Testing\VSrepo\SecondProjectCS\ConsoleApp1\3.TriangleOfStars\obj\Debug\net6.0\ref\3.TriangleOfStars.dll

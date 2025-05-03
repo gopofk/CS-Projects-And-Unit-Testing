@@ -1,0 +1,14 @@
+C:\Users\Goro\Desktop\Programing\SoftUni\QA\Programming Fundamentals and Unit Testing\VSrepo\SecondProjectCS\ConsoleApp1\4.NumbersEndingIn7\bin\Debug\net6.0\4.NumbersEndingIn7.exe
+C:\Users\Goro\Desktop\Programing\SoftUni\QA\Programming Fundamentals and Unit Testing\VSrepo\SecondProjectCS\ConsoleApp1\4.NumbersEndingIn7\bin\Debug\net6.0\4.NumbersEndingIn7.deps.json
+C:\Users\Goro\Desktop\Programing\SoftUni\QA\Programming Fundamentals and Unit Testing\VSrepo\SecondProjectCS\ConsoleApp1\4.NumbersEndingIn7\bin\Debug\net6.0\4.NumbersEndingIn7.runtimeconfig.json
+C:\Users\Goro\Desktop\Programing\SoftUni\QA\Programming Fundamentals and Unit Testing\VSrepo\SecondProjectCS\ConsoleApp1\4.NumbersEndingIn7\bin\Debug\net6.0\4.NumbersEndingIn7.dll
+C:\Users\Goro\Desktop\Programing\SoftUni\QA\Programming Fundamentals and Unit Testing\VSrepo\SecondProjectCS\ConsoleApp1\4.NumbersEndingIn7\bin\Debug\net6.0\4.NumbersEndingIn7.pdb
+C:\Users\Goro\Desktop\Programing\SoftUni\QA\Programming Fundamentals and Unit Testing\VSrepo\SecondProjectCS\ConsoleApp1\4.NumbersEndingIn7\obj\Debug\net6.0\4.NumbersEndingIn7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Goro\Desktop\Programing\SoftUni\QA\Programming Fundamentals and Unit Testing\VSrepo\SecondProjectCS\ConsoleApp1\4.NumbersEndingIn7\obj\Debug\net6.0\4.NumbersEndingIn7.AssemblyInfoInputs.cache
+C:\Users\Goro\Desktop\Programing\SoftUni\QA\Programming Fundamentals and Unit Testing\VSrepo\SecondProjectCS\ConsoleApp1\4.NumbersEndingIn7\obj\Debug\net6.0\4.NumbersEndingIn7.AssemblyInfo.cs
+C:\Users\Goro\Desktop\Programing\SoftUni\QA\Programming Fundamentals and Unit Testing\VSrepo\SecondProjectCS\ConsoleApp1\4.NumbersEndingIn7\obj\Debug\net6.0\4.NumbersEndingIn7.csproj.CoreCompileInputs.cache
+C:\Users\Goro\Desktop\Programing\SoftUni\QA\Programming Fundamentals and Unit Testing\VSrepo\SecondProjectCS\ConsoleApp1\4.NumbersEndingIn7\obj\Debug\net6.0\4.NumbersEndingIn7.dll
+C:\Users\Goro\Desktop\Programing\SoftUni\QA\Programming Fundamentals and Unit Testing\VSrepo\SecondProjectCS\ConsoleApp1\4.NumbersEndingIn7\obj\Debug\net6.0\refint\4.NumbersEndingIn7.dll
+C:\Users\Goro\Desktop\Programing\SoftUni\QA\Programming Fundamentals and Unit Testing\VSrepo\SecondProjectCS\ConsoleApp1\4.NumbersEndingIn7\obj\Debug\net6.0\4.NumbersEndingIn7.pdb
+C:\Users\Goro\Desktop\Programing\SoftUni\QA\Programming Fundamentals and Unit Testing\VSrepo\SecondProjectCS\ConsoleApp1\4.NumbersEndingIn7\obj\Debug\net6.0\4.NumbersEndingIn7.genruntimeconfig.cache
+C:\Users\Goro\Desktop\Programing\SoftUni\QA\Programming Fundamentals and Unit Testing\VSrepo\SecondProjectCS\ConsoleApp1\4.NumbersEndingIn7\obj\Debug\net6.0\ref\4.NumbersEndingIn7.dll

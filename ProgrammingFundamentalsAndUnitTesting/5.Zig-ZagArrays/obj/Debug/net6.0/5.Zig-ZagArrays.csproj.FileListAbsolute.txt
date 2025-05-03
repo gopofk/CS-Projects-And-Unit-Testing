@@ -1,0 +1,14 @@
+C:\Users\Goro\Desktop\Programing\SoftUni\QA\Programming Fundamentals and Unit Testing\VSrepo\SecondProjectCS\ConsoleApp1\5.Zig-ZagArrays\bin\Debug\net6.0\5.Zig-ZagArrays.exe
+C:\Users\Goro\Desktop\Programing\SoftUni\QA\Programming Fundamentals and Unit Testing\VSrepo\SecondProjectCS\ConsoleApp1\5.Zig-ZagArrays\bin\Debug\net6.0\5.Zig-ZagArrays.deps.json
+C:\Users\Goro\Desktop\Programing\SoftUni\QA\Programming Fundamentals and Unit Testing\VSrepo\SecondProjectCS\ConsoleApp1\5.Zig-ZagArrays\bin\Debug\net6.0\5.Zig-ZagArrays.runtimeconfig.json
+C:\Users\Goro\Desktop\Programing\SoftUni\QA\Programming Fundamentals and Unit Testing\VSrepo\SecondProjectCS\ConsoleApp1\5.Zig-ZagArrays\bin\Debug\net6.0\5.Zig-ZagArrays.dll
+C:\Users\Goro\Desktop\Programing\SoftUni\QA\Programming Fundamentals and Unit Testing\VSrepo\SecondProjectCS\ConsoleApp1\5.Zig-ZagArrays\bin\Debug\net6.0\5.Zig-ZagArrays.pdb
+C:\Users\Goro\Desktop\Programing\SoftUni\QA\Programming Fundamentals and Unit Testing\VSrepo\SecondProjectCS\ConsoleApp1\5.Zig-ZagArrays\obj\Debug\net6.0\5.Zig-ZagArrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Goro\Desktop\Programing\SoftUni\QA\Programming Fundamentals and Unit Testing\VSrepo\SecondProjectCS\ConsoleApp1\5.Zig-ZagArrays\obj\Debug\net6.0\5.Zig-ZagArrays.AssemblyInfoInputs.cache
+C:\Users\Goro\Desktop\Programing\SoftUni\QA\Programming Fundamentals and Unit Testing\VSrepo\SecondProjectCS\ConsoleApp1\5.Zig-ZagArrays\obj\Debug\net6.0\5.Zig-ZagArrays.AssemblyInfo.cs
+C:\Users\Goro\Desktop\Programing\SoftUni\QA\Programming Fundamentals and Unit Testing\VSrepo\SecondProjectCS\ConsoleApp1\5.Zig-ZagArrays\obj\Debug\net6.0\5.Zig-ZagArrays.csproj.CoreCompileInputs.cache
+C:\Users\Goro\Desktop\Programing\SoftUni\QA\Programming Fundamentals and Unit Testing\VSrepo\SecondProjectCS\ConsoleApp1\5.Zig-ZagArrays\obj\Debug\net6.0\5.Zig-ZagArrays.dll
+C:\Users\Goro\Desktop\Programing\SoftUni\QA\Programming Fundamentals and Unit Testing\VSrepo\SecondProjectCS\ConsoleApp1\5.Zig-ZagArrays\obj\Debug\net6.0\refint\5.Zig-ZagArrays.dll
+C:\Users\Goro\Desktop\Programing\SoftUni\QA\Programming Fundamentals and Unit Testing\VSrepo\SecondProjectCS\ConsoleApp1\5.Zig-ZagArrays\obj\Debug\net6.0\5.Zig-ZagArrays.pdb
+C:\Users\Goro\Desktop\Programing\SoftUni\QA\Programming Fundamentals and Unit Testing\VSrepo\SecondProjectCS\ConsoleApp1\5.Zig-ZagArrays\obj\Debug\net6.0\5.Zig-ZagArrays.genruntimeconfig.cache
+C:\Users\Goro\Desktop\Programing\SoftUni\QA\Programming Fundamentals and Unit Testing\VSrepo\SecondProjectCS\ConsoleApp1\5.Zig-ZagArrays\obj\Debug\net6.0\ref\5.Zig-ZagArrays.dll

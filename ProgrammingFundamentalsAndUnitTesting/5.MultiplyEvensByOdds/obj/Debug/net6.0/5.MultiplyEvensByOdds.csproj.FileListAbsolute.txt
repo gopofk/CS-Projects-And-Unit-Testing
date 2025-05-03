@@ -1,0 +1,14 @@
+C:\Users\Goro\Desktop\Programing\SoftUni\QA\Programming Fundamentals and Unit Testing\VSrepo\SecondProjectCS\ConsoleApp1\5.MultiplyEvensByOdds\bin\Debug\net6.0\5.MultiplyEvensByOdds.exe
+C:\Users\Goro\Desktop\Programing\SoftUni\QA\Programming Fundamentals and Unit Testing\VSrepo\SecondProjectCS\ConsoleApp1\5.MultiplyEvensByOdds\bin\Debug\net6.0\5.MultiplyEvensByOdds.deps.json
+C:\Users\Goro\Desktop\Programing\SoftUni\QA\Programming Fundamentals and Unit Testing\VSrepo\SecondProjectCS\ConsoleApp1\5.MultiplyEvensByOdds\bin\Debug\net6.0\5.MultiplyEvensByOdds.runtimeconfig.json
+C:\Users\Goro\Desktop\Programing\SoftUni\QA\Programming Fundamentals and Unit Testing\VSrepo\SecondProjectCS\ConsoleApp1\5.MultiplyEvensByOdds\bin\Debug\net6.0\5.MultiplyEvensByOdds.dll
+C:\Users\Goro\Desktop\Programing\SoftUni\QA\Programming Fundamentals and Unit Testing\VSrepo\SecondProjectCS\ConsoleApp1\5.MultiplyEvensByOdds\bin\Debug\net6.0\5.MultiplyEvensByOdds.pdb
+C:\Users\Goro\Desktop\Programing\SoftUni\QA\Programming Fundamentals and Unit Testing\VSrepo\SecondProjectCS\ConsoleApp1\5.MultiplyEvensByOdds\obj\Debug\net6.0\5.MultiplyEvensByOdds.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Goro\Desktop\Programing\SoftUni\QA\Programming Fundamentals and Unit Testing\VSrepo\SecondProjectCS\ConsoleApp1\5.MultiplyEvensByOdds\obj\Debug\net6.0\5.MultiplyEvensByOdds.AssemblyInfoInputs.cache
+C:\Users\Goro\Desktop\Programing\SoftUni\QA\Programming Fundamentals and Unit Testing\VSrepo\SecondProjectCS\ConsoleApp1\5.MultiplyEvensByOdds\obj\Debug\net6.0\5.MultiplyEvensByOdds.AssemblyInfo.cs
+C:\Users\Goro\Desktop\Programing\SoftUni\QA\Programming Fundamentals and Unit Testing\VSrepo\SecondProjectCS\ConsoleApp1\5.MultiplyEvensByOdds\obj\Debug\net6.0\5.MultiplyEvensByOdds.csproj.CoreCompileInputs.cache
+C:\Users\Goro\Desktop\Programing\SoftUni\QA\Programming Fundamentals and Unit Testing\VSrepo\SecondProjectCS\ConsoleApp1\5.MultiplyEvensByOdds\obj\Debug\net6.0\5.MultiplyEvensByOdds.dll
+C:\Users\Goro\Desktop\Programing\SoftUni\QA\Programming Fundamentals and Unit Testing\VSrepo\SecondProjectCS\ConsoleApp1\5.MultiplyEvensByOdds\obj\Debug\net6.0\refint\5.MultiplyEvensByOdds.dll
+C:\Users\Goro\Desktop\Programing\SoftUni\QA\Programming Fundamentals and Unit Testing\VSrepo\SecondProjectCS\ConsoleApp1\5.MultiplyEvensByOdds\obj\Debug\net6.0\5.MultiplyEvensByOdds.pdb
+C:\Users\Goro\Desktop\Programing\SoftUni\QA\Programming Fundamentals and Unit Testing\VSrepo\SecondProjectCS\ConsoleApp1\5.MultiplyEvensByOdds\obj\Debug\net6.0\5.MultiplyEvensByOdds.genruntimeconfig.cache
+C:\Users\Goro\Desktop\Programing\SoftUni\QA\Programming Fundamentals and Unit Testing\VSrepo\SecondProjectCS\ConsoleApp1\5.MultiplyEvensByOdds\obj\Debug\net6.0\ref\5.MultiplyEvensByOdds.dll

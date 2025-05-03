@@ -1,0 +1,14 @@
+C:\Users\Goro\Desktop\Programing\SoftUni\QA\Programming Fundamentals and Unit Testing\VSrepo\SecondProjectCS\ConsoleApp1\4.EvenAndOddSubtraction\bin\Debug\net6.0\4.EvenAndOddSubtraction.exe
+C:\Users\Goro\Desktop\Programing\SoftUni\QA\Programming Fundamentals and Unit Testing\VSrepo\SecondProjectCS\ConsoleApp1\4.EvenAndOddSubtraction\bin\Debug\net6.0\4.EvenAndOddSubtraction.deps.json
+C:\Users\Goro\Desktop\Programing\SoftUni\QA\Programming Fundamentals and Unit Testing\VSrepo\SecondProjectCS\ConsoleApp1\4.EvenAndOddSubtraction\bin\Debug\net6.0\4.EvenAndOddSubtraction.runtimeconfig.json
+C:\Users\Goro\Desktop\Programing\SoftUni\QA\Programming Fundamentals and Unit Testing\VSrepo\SecondProjectCS\ConsoleApp1\4.EvenAndOddSubtraction\bin\Debug\net6.0\4.EvenAndOddSubtraction.dll
+C:\Users\Goro\Desktop\Programing\SoftUni\QA\Programming Fundamentals and Unit Testing\VSrepo\SecondProjectCS\ConsoleApp1\4.EvenAndOddSubtraction\bin\Debug\net6.0\4.EvenAndOddSubtraction.pdb
+C:\Users\Goro\Desktop\Programing\SoftUni\QA\Programming Fundamentals and Unit Testing\VSrepo\SecondProjectCS\ConsoleApp1\4.EvenAndOddSubtraction\obj\Debug\net6.0\4.EvenAndOddSubtraction.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Goro\Desktop\Programing\SoftUni\QA\Programming Fundamentals and Unit Testing\VSrepo\SecondProjectCS\ConsoleApp1\4.EvenAndOddSubtraction\obj\Debug\net6.0\4.EvenAndOddSubtraction.AssemblyInfoInputs.cache
+C:\Users\Goro\Desktop\Programing\SoftUni\QA\Programming Fundamentals and Unit Testing\VSrepo\SecondProjectCS\ConsoleApp1\4.EvenAndOddSubtraction\obj\Debug\net6.0\4.EvenAndOddSubtraction.AssemblyInfo.cs
+C:\Users\Goro\Desktop\Programing\SoftUni\QA\Programming Fundamentals and Unit Testing\VSrepo\SecondProjectCS\ConsoleApp1\4.EvenAndOddSubtraction\obj\Debug\net6.0\4.EvenAndOddSubtraction.csproj.CoreCompileInputs.cache
+C:\Users\Goro\Desktop\Programing\SoftUni\QA\Programming Fundamentals and Unit Testing\VSrepo\SecondProjectCS\ConsoleApp1\4.EvenAndOddSubtraction\obj\Debug\net6.0\4.EvenAndOddSubtraction.dll
+C:\Users\Goro\Desktop\Programing\SoftUni\QA\Programming Fundamentals and Unit Testing\VSrepo\SecondProjectCS\ConsoleApp1\4.EvenAndOddSubtraction\obj\Debug\net6.0\refint\4.EvenAndOddSubtraction.dll
+C:\Users\Goro\Desktop\Programing\SoftUni\QA\Programming Fundamentals and Unit Testing\VSrepo\SecondProjectCS\ConsoleApp1\4.EvenAndOddSubtraction\obj\Debug\net6.0\4.EvenAndOddSubtraction.pdb
+C:\Users\Goro\Desktop\Programing\SoftUni\QA\Programming Fundamentals and Unit Testing\VSrepo\SecondProjectCS\ConsoleApp1\4.EvenAndOddSubtraction\obj\Debug\net6.0\4.EvenAndOddSubtraction.genruntimeconfig.cache
+C:\Users\Goro\Desktop\Programing\SoftUni\QA\Programming Fundamentals and Unit Testing\VSrepo\SecondProjectCS\ConsoleApp1\4.EvenAndOddSubtraction\obj\Debug\net6.0\ref\4.EvenAndOddSubtraction.dll

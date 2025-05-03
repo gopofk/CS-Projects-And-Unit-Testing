@@ -1,0 +1,14 @@
+C:\Users\Goro\Desktop\Programing\SoftUni\QA\Programming Fundamentals and Unit Testing\VSrepo\SecondProjectCS\ConsoleApp1\5.DivisionTo2,3And4\bin\Debug\net6.0\5.DivisionTo2,3And4.exe
+C:\Users\Goro\Desktop\Programing\SoftUni\QA\Programming Fundamentals and Unit Testing\VSrepo\SecondProjectCS\ConsoleApp1\5.DivisionTo2,3And4\bin\Debug\net6.0\5.DivisionTo2,3And4.deps.json
+C:\Users\Goro\Desktop\Programing\SoftUni\QA\Programming Fundamentals and Unit Testing\VSrepo\SecondProjectCS\ConsoleApp1\5.DivisionTo2,3And4\bin\Debug\net6.0\5.DivisionTo2,3And4.runtimeconfig.json
+C:\Users\Goro\Desktop\Programing\SoftUni\QA\Programming Fundamentals and Unit Testing\VSrepo\SecondProjectCS\ConsoleApp1\5.DivisionTo2,3And4\bin\Debug\net6.0\5.DivisionTo2,3And4.dll
+C:\Users\Goro\Desktop\Programing\SoftUni\QA\Programming Fundamentals and Unit Testing\VSrepo\SecondProjectCS\ConsoleApp1\5.DivisionTo2,3And4\bin\Debug\net6.0\5.DivisionTo2,3And4.pdb
+C:\Users\Goro\Desktop\Programing\SoftUni\QA\Programming Fundamentals and Unit Testing\VSrepo\SecondProjectCS\ConsoleApp1\5.DivisionTo2,3And4\obj\Debug\net6.0\5.DivisionTo2,3And4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Goro\Desktop\Programing\SoftUni\QA\Programming Fundamentals and Unit Testing\VSrepo\SecondProjectCS\ConsoleApp1\5.DivisionTo2,3And4\obj\Debug\net6.0\5.DivisionTo2,3And4.AssemblyInfoInputs.cache
+C:\Users\Goro\Desktop\Programing\SoftUni\QA\Programming Fundamentals and Unit Testing\VSrepo\SecondProjectCS\ConsoleApp1\5.DivisionTo2,3And4\obj\Debug\net6.0\5.DivisionTo2,3And4.AssemblyInfo.cs
+C:\Users\Goro\Desktop\Programing\SoftUni\QA\Programming Fundamentals and Unit Testing\VSrepo\SecondProjectCS\ConsoleApp1\5.DivisionTo2,3And4\obj\Debug\net6.0\5.DivisionTo2,3And4.csproj.CoreCompileInputs.cache
+C:\Users\Goro\Desktop\Programing\SoftUni\QA\Programming Fundamentals and Unit Testing\VSrepo\SecondProjectCS\ConsoleApp1\5.DivisionTo2,3And4\obj\Debug\net6.0\5.DivisionTo2,3And4.dll
+C:\Users\Goro\Desktop\Programing\SoftUni\QA\Programming Fundamentals and Unit Testing\VSrepo\SecondProjectCS\ConsoleApp1\5.DivisionTo2,3And4\obj\Debug\net6.0\refint\5.DivisionTo2,3And4.dll
+C:\Users\Goro\Desktop\Programing\SoftUni\QA\Programming Fundamentals and Unit Testing\VSrepo\SecondProjectCS\ConsoleApp1\5.DivisionTo2,3And4\obj\Debug\net6.0\5.DivisionTo2,3And4.pdb
+C:\Users\Goro\Desktop\Programing\SoftUni\QA\Programming Fundamentals and Unit Testing\VSrepo\SecondProjectCS\ConsoleApp1\5.DivisionTo2,3And4\obj\Debug\net6.0\5.DivisionTo2,3And4.genruntimeconfig.cache
+C:\Users\Goro\Desktop\Programing\SoftUni\QA\Programming Fundamentals and Unit Testing\VSrepo\SecondProjectCS\ConsoleApp1\5.DivisionTo2,3And4\obj\Debug\net6.0\ref\5.DivisionTo2,3And4.dll

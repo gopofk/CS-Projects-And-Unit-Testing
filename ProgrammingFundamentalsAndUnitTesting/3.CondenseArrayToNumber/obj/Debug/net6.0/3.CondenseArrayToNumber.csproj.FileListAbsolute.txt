@@ -1,0 +1,14 @@
+C:\Users\Goro\Desktop\Programing\SoftUni\QA\Programming Fundamentals and Unit Testing\VSrepo\SecondProjectCS\ConsoleApp1\3.CondenseArrayToNumber\bin\Debug\net6.0\3.CondenseArrayToNumber.exe
+C:\Users\Goro\Desktop\Programing\SoftUni\QA\Programming Fundamentals and Unit Testing\VSrepo\SecondProjectCS\ConsoleApp1\3.CondenseArrayToNumber\bin\Debug\net6.0\3.CondenseArrayToNumber.deps.json
+C:\Users\Goro\Desktop\Programing\SoftUni\QA\Programming Fundamentals and Unit Testing\VSrepo\SecondProjectCS\ConsoleApp1\3.CondenseArrayToNumber\bin\Debug\net6.0\3.CondenseArrayToNumber.runtimeconfig.json
+C:\Users\Goro\Desktop\Programing\SoftUni\QA\Programming Fundamentals and Unit Testing\VSrepo\SecondProjectCS\ConsoleApp1\3.CondenseArrayToNumber\bin\Debug\net6.0\3.CondenseArrayToNumber.dll
+C:\Users\Goro\Desktop\Programing\SoftUni\QA\Programming Fundamentals and Unit Testing\VSrepo\SecondProjectCS\ConsoleApp1\3.CondenseArrayToNumber\bin\Debug\net6.0\3.CondenseArrayToNumber.pdb
+C:\Users\Goro\Desktop\Programing\SoftUni\QA\Programming Fundamentals and Unit Testing\VSrepo\SecondProjectCS\ConsoleApp1\3.CondenseArrayToNumber\obj\Debug\net6.0\3.CondenseArrayToNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Goro\Desktop\Programing\SoftUni\QA\Programming Fundamentals and Unit Testing\VSrepo\SecondProjectCS\ConsoleApp1\3.CondenseArrayToNumber\obj\Debug\net6.0\3.CondenseArrayToNumber.AssemblyInfoInputs.cache
+C:\Users\Goro\Desktop\Programing\SoftUni\QA\Programming Fundamentals and Unit Testing\VSrepo\SecondProjectCS\ConsoleApp1\3.CondenseArrayToNumber\obj\Debug\net6.0\3.CondenseArrayToNumber.AssemblyInfo.cs
+C:\Users\Goro\Desktop\Programing\SoftUni\QA\Programming Fundamentals and Unit Testing\VSrepo\SecondProjectCS\ConsoleApp1\3.CondenseArrayToNumber\obj\Debug\net6.0\3.CondenseArrayToNumber.csproj.CoreCompileInputs.cache
+C:\Users\Goro\Desktop\Programing\SoftUni\QA\Programming Fundamentals and Unit Testing\VSrepo\SecondProjectCS\ConsoleApp1\3.CondenseArrayToNumber\obj\Debug\net6.0\3.CondenseArrayToNumber.dll
+C:\Users\Goro\Desktop\Programing\SoftUni\QA\Programming Fundamentals and Unit Testing\VSrepo\SecondProjectCS\ConsoleApp1\3.CondenseArrayToNumber\obj\Debug\net6.0\refint\3.CondenseArrayToNumber.dll
+C:\Users\Goro\Desktop\Programing\SoftUni\QA\Programming Fundamentals and Unit Testing\VSrepo\SecondProjectCS\ConsoleApp1\3.CondenseArrayToNumber\obj\Debug\net6.0\3.CondenseArrayToNumber.pdb
+C:\Users\Goro\Desktop\Programing\SoftUni\QA\Programming Fundamentals and Unit Testing\VSrepo\SecondProjectCS\ConsoleApp1\3.CondenseArrayToNumber\obj\Debug\net6.0\3.CondenseArrayToNumber.genruntimeconfig.cache
+C:\Users\Goro\Desktop\Programing\SoftUni\QA\Programming Fundamentals and Unit Testing\VSrepo\SecondProjectCS\ConsoleApp1\3.CondenseArrayToNumber\obj\Debug\net6.0\ref\3.CondenseArrayToNumber.dll

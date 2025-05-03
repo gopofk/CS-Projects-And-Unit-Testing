@@ -1,0 +1,14 @@
+C:\Users\Goro\Desktop\Programing\SoftUni\QA\Programming Fundamentals and Unit Testing\VSrepo\SecondProjectCS\ConsoleApp1\2.FirstNNumbersSum\bin\Debug\net6.0\2.FirstNNumbersSum.exe
+C:\Users\Goro\Desktop\Programing\SoftUni\QA\Programming Fundamentals and Unit Testing\VSrepo\SecondProjectCS\ConsoleApp1\2.FirstNNumbersSum\bin\Debug\net6.0\2.FirstNNumbersSum.deps.json
+C:\Users\Goro\Desktop\Programing\SoftUni\QA\Programming Fundamentals and Unit Testing\VSrepo\SecondProjectCS\ConsoleApp1\2.FirstNNumbersSum\bin\Debug\net6.0\2.FirstNNumbersSum.runtimeconfig.json
+C:\Users\Goro\Desktop\Programing\SoftUni\QA\Programming Fundamentals and Unit Testing\VSrepo\SecondProjectCS\ConsoleApp1\2.FirstNNumbersSum\bin\Debug\net6.0\2.FirstNNumbersSum.dll
+C:\Users\Goro\Desktop\Programing\SoftUni\QA\Programming Fundamentals and Unit Testing\VSrepo\SecondProjectCS\ConsoleApp1\2.FirstNNumbersSum\bin\Debug\net6.0\2.FirstNNumbersSum.pdb
+C:\Users\Goro\Desktop\Programing\SoftUni\QA\Programming Fundamentals and Unit Testing\VSrepo\SecondProjectCS\ConsoleApp1\2.FirstNNumbersSum\obj\Debug\net6.0\2.FirstNNumbersSum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Goro\Desktop\Programing\SoftUni\QA\Programming Fundamentals and Unit Testing\VSrepo\SecondProjectCS\ConsoleApp1\2.FirstNNumbersSum\obj\Debug\net6.0\2.FirstNNumbersSum.AssemblyInfoInputs.cache
+C:\Users\Goro\Desktop\Programing\SoftUni\QA\Programming Fundamentals and Unit Testing\VSrepo\SecondProjectCS\ConsoleApp1\2.FirstNNumbersSum\obj\Debug\net6.0\2.FirstNNumbersSum.AssemblyInfo.cs
+C:\Users\Goro\Desktop\Programing\SoftUni\QA\Programming Fundamentals and Unit Testing\VSrepo\SecondProjectCS\ConsoleApp1\2.FirstNNumbersSum\obj\Debug\net6.0\2.FirstNNumbersSum.csproj.CoreCompileInputs.cache
+C:\Users\Goro\Desktop\Programing\SoftUni\QA\Programming Fundamentals and Unit Testing\VSrepo\SecondProjectCS\ConsoleApp1\2.FirstNNumbersSum\obj\Debug\net6.0\2.FirstNNumbersSum.dll
+C:\Users\Goro\Desktop\Programing\SoftUni\QA\Programming Fundamentals and Unit Testing\VSrepo\SecondProjectCS\ConsoleApp1\2.FirstNNumbersSum\obj\Debug\net6.0\refint\2.FirstNNumbersSum.dll
+C:\Users\Goro\Desktop\Programing\SoftUni\QA\Programming Fundamentals and Unit Testing\VSrepo\SecondProjectCS\ConsoleApp1\2.FirstNNumbersSum\obj\Debug\net6.0\2.FirstNNumbersSum.pdb
+C:\Users\Goro\Desktop\Programing\SoftUni\QA\Programming Fundamentals and Unit Testing\VSrepo\SecondProjectCS\ConsoleApp1\2.FirstNNumbersSum\obj\Debug\net6.0\2.FirstNNumbersSum.genruntimeconfig.cache
+C:\Users\Goro\Desktop\Programing\SoftUni\QA\Programming Fundamentals and Unit Testing\VSrepo\SecondProjectCS\ConsoleApp1\2.FirstNNumbersSum\obj\Debug\net6.0\ref\2.FirstNNumbersSum.dll

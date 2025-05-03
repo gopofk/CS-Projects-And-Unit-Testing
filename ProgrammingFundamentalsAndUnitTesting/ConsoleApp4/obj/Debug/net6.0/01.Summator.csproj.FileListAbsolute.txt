@@ -1,0 +1,4 @@
+C:\Users\Goro\Desktop\Programing\ProgrammingFundamentalsAndUnitTesting\ProgrammingFundamentalsAndUnitTesting\ConsoleApp4\obj\Debug\net6.0\01.Summator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Goro\Desktop\Programing\ProgrammingFundamentalsAndUnitTesting\ProgrammingFundamentalsAndUnitTesting\ConsoleApp4\obj\Debug\net6.0\01.Summator.AssemblyInfoInputs.cache
+C:\Users\Goro\Desktop\Programing\ProgrammingFundamentalsAndUnitTesting\ProgrammingFundamentalsAndUnitTesting\ConsoleApp4\obj\Debug\net6.0\01.Summator.AssemblyInfo.cs
+C:\Users\Goro\Desktop\Programing\ProgrammingFundamentalsAndUnitTesting\ProgrammingFundamentalsAndUnitTesting\ConsoleApp4\obj\Debug\net6.0\01.Summator.csproj.CoreCompileInputs.cache

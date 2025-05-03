@@ -1,0 +1,14 @@
+C:\Users\Goro\Desktop\Programing\SoftUni\QA\Programming Fundamentals and Unit Testing\VSrepo\SecondProjectCS\ConsoleApp1\04.ListManipulationBasics\bin\Debug\net6.0\04.ListManipulationBasics.exe
+C:\Users\Goro\Desktop\Programing\SoftUni\QA\Programming Fundamentals and Unit Testing\VSrepo\SecondProjectCS\ConsoleApp1\04.ListManipulationBasics\bin\Debug\net6.0\04.ListManipulationBasics.deps.json
+C:\Users\Goro\Desktop\Programing\SoftUni\QA\Programming Fundamentals and Unit Testing\VSrepo\SecondProjectCS\ConsoleApp1\04.ListManipulationBasics\bin\Debug\net6.0\04.ListManipulationBasics.runtimeconfig.json
+C:\Users\Goro\Desktop\Programing\SoftUni\QA\Programming Fundamentals and Unit Testing\VSrepo\SecondProjectCS\ConsoleApp1\04.ListManipulationBasics\bin\Debug\net6.0\04.ListManipulationBasics.dll
+C:\Users\Goro\Desktop\Programing\SoftUni\QA\Programming Fundamentals and Unit Testing\VSrepo\SecondProjectCS\ConsoleApp1\04.ListManipulationBasics\bin\Debug\net6.0\04.ListManipulationBasics.pdb
+C:\Users\Goro\Desktop\Programing\SoftUni\QA\Programming Fundamentals and Unit Testing\VSrepo\SecondProjectCS\ConsoleApp1\04.ListManipulationBasics\obj\Debug\net6.0\04.ListManipulationBasics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Goro\Desktop\Programing\SoftUni\QA\Programming Fundamentals and Unit Testing\VSrepo\SecondProjectCS\ConsoleApp1\04.ListManipulationBasics\obj\Debug\net6.0\04.ListManipulationBasics.AssemblyInfoInputs.cache
+C:\Users\Goro\Desktop\Programing\SoftUni\QA\Programming Fundamentals and Unit Testing\VSrepo\SecondProjectCS\ConsoleApp1\04.ListManipulationBasics\obj\Debug\net6.0\04.ListManipulationBasics.AssemblyInfo.cs
+C:\Users\Goro\Desktop\Programing\SoftUni\QA\Programming Fundamentals and Unit Testing\VSrepo\SecondProjectCS\ConsoleApp1\04.ListManipulationBasics\obj\Debug\net6.0\04.ListManipulationBasics.csproj.CoreCompileInputs.cache
+C:\Users\Goro\Desktop\Programing\SoftUni\QA\Programming Fundamentals and Unit Testing\VSrepo\SecondProjectCS\ConsoleApp1\04.ListManipulationBasics\obj\Debug\net6.0\04.ListManipulationBasics.dll
+C:\Users\Goro\Desktop\Programing\SoftUni\QA\Programming Fundamentals and Unit Testing\VSrepo\SecondProjectCS\ConsoleApp1\04.ListManipulationBasics\obj\Debug\net6.0\refint\04.ListManipulationBasics.dll
+C:\Users\Goro\Desktop\Programing\SoftUni\QA\Programming Fundamentals and Unit Testing\VSrepo\SecondProjectCS\ConsoleApp1\04.ListManipulationBasics\obj\Debug\net6.0\04.ListManipulationBasics.pdb
+C:\Users\Goro\Desktop\Programing\SoftUni\QA\Programming Fundamentals and Unit Testing\VSrepo\SecondProjectCS\ConsoleApp1\04.ListManipulationBasics\obj\Debug\net6.0\04.ListManipulationBasics.genruntimeconfig.cache
+C:\Users\Goro\Desktop\Programing\SoftUni\QA\Programming Fundamentals and Unit Testing\VSrepo\SecondProjectCS\ConsoleApp1\04.ListManipulationBasics\obj\Debug\net6.0\ref\04.ListManipulationBasics.dll

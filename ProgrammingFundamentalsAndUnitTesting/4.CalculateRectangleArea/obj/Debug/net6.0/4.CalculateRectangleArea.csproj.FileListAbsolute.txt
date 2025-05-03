@@ -1,0 +1,14 @@
+C:\Users\Goro\Desktop\Programing\SoftUni\QA\Programming Fundamentals and Unit Testing\VSrepo\SecondProjectCS\ConsoleApp1\4.CalculateRectangleArea\bin\Debug\net6.0\4.CalculateRectangleArea.exe
+C:\Users\Goro\Desktop\Programing\SoftUni\QA\Programming Fundamentals and Unit Testing\VSrepo\SecondProjectCS\ConsoleApp1\4.CalculateRectangleArea\bin\Debug\net6.0\4.CalculateRectangleArea.deps.json
+C:\Users\Goro\Desktop\Programing\SoftUni\QA\Programming Fundamentals and Unit Testing\VSrepo\SecondProjectCS\ConsoleApp1\4.CalculateRectangleArea\bin\Debug\net6.0\4.CalculateRectangleArea.runtimeconfig.json
+C:\Users\Goro\Desktop\Programing\SoftUni\QA\Programming Fundamentals and Unit Testing\VSrepo\SecondProjectCS\ConsoleApp1\4.CalculateRectangleArea\bin\Debug\net6.0\4.CalculateRectangleArea.dll
+C:\Users\Goro\Desktop\Programing\SoftUni\QA\Programming Fundamentals and Unit Testing\VSrepo\SecondProjectCS\ConsoleApp1\4.CalculateRectangleArea\bin\Debug\net6.0\4.CalculateRectangleArea.pdb
+C:\Users\Goro\Desktop\Programing\SoftUni\QA\Programming Fundamentals and Unit Testing\VSrepo\SecondProjectCS\ConsoleApp1\4.CalculateRectangleArea\obj\Debug\net6.0\4.CalculateRectangleArea.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Goro\Desktop\Programing\SoftUni\QA\Programming Fundamentals and Unit Testing\VSrepo\SecondProjectCS\ConsoleApp1\4.CalculateRectangleArea\obj\Debug\net6.0\4.CalculateRectangleArea.AssemblyInfoInputs.cache
+C:\Users\Goro\Desktop\Programing\SoftUni\QA\Programming Fundamentals and Unit Testing\VSrepo\SecondProjectCS\ConsoleApp1\4.CalculateRectangleArea\obj\Debug\net6.0\4.CalculateRectangleArea.AssemblyInfo.cs
+C:\Users\Goro\Desktop\Programing\SoftUni\QA\Programming Fundamentals and Unit Testing\VSrepo\SecondProjectCS\ConsoleApp1\4.CalculateRectangleArea\obj\Debug\net6.0\4.CalculateRectangleArea.csproj.CoreCompileInputs.cache
+C:\Users\Goro\Desktop\Programing\SoftUni\QA\Programming Fundamentals and Unit Testing\VSrepo\SecondProjectCS\ConsoleApp1\4.CalculateRectangleArea\obj\Debug\net6.0\4.CalculateRectangleArea.dll
+C:\Users\Goro\Desktop\Programing\SoftUni\QA\Programming Fundamentals and Unit Testing\VSrepo\SecondProjectCS\ConsoleApp1\4.CalculateRectangleArea\obj\Debug\net6.0\refint\4.CalculateRectangleArea.dll
+C:\Users\Goro\Desktop\Programing\SoftUni\QA\Programming Fundamentals and Unit Testing\VSrepo\SecondProjectCS\ConsoleApp1\4.CalculateRectangleArea\obj\Debug\net6.0\4.CalculateRectangleArea.pdb
+C:\Users\Goro\Desktop\Programing\SoftUni\QA\Programming Fundamentals and Unit Testing\VSrepo\SecondProjectCS\ConsoleApp1\4.CalculateRectangleArea\obj\Debug\net6.0\4.CalculateRectangleArea.genruntimeconfig.cache
+C:\Users\Goro\Desktop\Programing\SoftUni\QA\Programming Fundamentals and Unit Testing\VSrepo\SecondProjectCS\ConsoleApp1\4.CalculateRectangleArea\obj\Debug\net6.0\ref\4.CalculateRectangleArea.dll

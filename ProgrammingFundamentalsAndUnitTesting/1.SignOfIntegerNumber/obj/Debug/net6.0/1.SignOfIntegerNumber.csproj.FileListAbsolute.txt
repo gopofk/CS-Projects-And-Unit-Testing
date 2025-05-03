@@ -1,0 +1,14 @@
+C:\Users\Goro\Desktop\Programing\SoftUni\QA\Programming Fundamentals and Unit Testing\VSrepo\SecondProjectCS\ConsoleApp1\1.SignOfIntegerNumber\bin\Debug\net6.0\1.SignOfIntegerNumber.exe
+C:\Users\Goro\Desktop\Programing\SoftUni\QA\Programming Fundamentals and Unit Testing\VSrepo\SecondProjectCS\ConsoleApp1\1.SignOfIntegerNumber\bin\Debug\net6.0\1.SignOfIntegerNumber.deps.json
+C:\Users\Goro\Desktop\Programing\SoftUni\QA\Programming Fundamentals and Unit Testing\VSrepo\SecondProjectCS\ConsoleApp1\1.SignOfIntegerNumber\bin\Debug\net6.0\1.SignOfIntegerNumber.runtimeconfig.json
+C:\Users\Goro\Desktop\Programing\SoftUni\QA\Programming Fundamentals and Unit Testing\VSrepo\SecondProjectCS\ConsoleApp1\1.SignOfIntegerNumber\bin\Debug\net6.0\1.SignOfIntegerNumber.dll
+C:\Users\Goro\Desktop\Programing\SoftUni\QA\Programming Fundamentals and Unit Testing\VSrepo\SecondProjectCS\ConsoleApp1\1.SignOfIntegerNumber\bin\Debug\net6.0\1.SignOfIntegerNumber.pdb
+C:\Users\Goro\Desktop\Programing\SoftUni\QA\Programming Fundamentals and Unit Testing\VSrepo\SecondProjectCS\ConsoleApp1\1.SignOfIntegerNumber\obj\Debug\net6.0\1.SignOfIntegerNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Goro\Desktop\Programing\SoftUni\QA\Programming Fundamentals and Unit Testing\VSrepo\SecondProjectCS\ConsoleApp1\1.SignOfIntegerNumber\obj\Debug\net6.0\1.SignOfIntegerNumber.AssemblyInfoInputs.cache
+C:\Users\Goro\Desktop\Programing\SoftUni\QA\Programming Fundamentals and Unit Testing\VSrepo\SecondProjectCS\ConsoleApp1\1.SignOfIntegerNumber\obj\Debug\net6.0\1.SignOfIntegerNumber.AssemblyInfo.cs
+C:\Users\Goro\Desktop\Programing\SoftUni\QA\Programming Fundamentals and Unit Testing\VSrepo\SecondProjectCS\ConsoleApp1\1.SignOfIntegerNumber\obj\Debug\net6.0\1.SignOfIntegerNumber.csproj.CoreCompileInputs.cache
+C:\Users\Goro\Desktop\Programing\SoftUni\QA\Programming Fundamentals and Unit Testing\VSrepo\SecondProjectCS\ConsoleApp1\1.SignOfIntegerNumber\obj\Debug\net6.0\1.SignOfIntegerNumber.dll
+C:\Users\Goro\Desktop\Programing\SoftUni\QA\Programming Fundamentals and Unit Testing\VSrepo\SecondProjectCS\ConsoleApp1\1.SignOfIntegerNumber\obj\Debug\net6.0\refint\1.SignOfIntegerNumber.dll
+C:\Users\Goro\Desktop\Programing\SoftUni\QA\Programming Fundamentals and Unit Testing\VSrepo\SecondProjectCS\ConsoleApp1\1.SignOfIntegerNumber\obj\Debug\net6.0\1.SignOfIntegerNumber.pdb
+C:\Users\Goro\Desktop\Programing\SoftUni\QA\Programming Fundamentals and Unit Testing\VSrepo\SecondProjectCS\ConsoleApp1\1.SignOfIntegerNumber\obj\Debug\net6.0\1.SignOfIntegerNumber.genruntimeconfig.cache
+C:\Users\Goro\Desktop\Programing\SoftUni\QA\Programming Fundamentals and Unit Testing\VSrepo\SecondProjectCS\ConsoleApp1\1.SignOfIntegerNumber\obj\Debug\net6.0\ref\1.SignOfIntegerNumber.dll

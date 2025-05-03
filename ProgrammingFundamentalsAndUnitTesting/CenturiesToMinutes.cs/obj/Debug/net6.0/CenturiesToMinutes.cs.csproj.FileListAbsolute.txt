@@ -1,0 +1,14 @@
+C:\Users\Goro\Desktop\Programing\SoftUni\QA\Programming Fundamentals and Unit Testing\VSrepo\SecondProjectCS\ConsoleApp1\CenturiesToMinutes.cs\bin\Debug\net6.0\CenturiesToMinutes.cs.exe
+C:\Users\Goro\Desktop\Programing\SoftUni\QA\Programming Fundamentals and Unit Testing\VSrepo\SecondProjectCS\ConsoleApp1\CenturiesToMinutes.cs\bin\Debug\net6.0\CenturiesToMinutes.cs.deps.json
+C:\Users\Goro\Desktop\Programing\SoftUni\QA\Programming Fundamentals and Unit Testing\VSrepo\SecondProjectCS\ConsoleApp1\CenturiesToMinutes.cs\bin\Debug\net6.0\CenturiesToMinutes.cs.runtimeconfig.json
+C:\Users\Goro\Desktop\Programing\SoftUni\QA\Programming Fundamentals and Unit Testing\VSrepo\SecondProjectCS\ConsoleApp1\CenturiesToMinutes.cs\bin\Debug\net6.0\CenturiesToMinutes.cs.dll
+C:\Users\Goro\Desktop\Programing\SoftUni\QA\Programming Fundamentals and Unit Testing\VSrepo\SecondProjectCS\ConsoleApp1\CenturiesToMinutes.cs\bin\Debug\net6.0\CenturiesToMinutes.cs.pdb
+C:\Users\Goro\Desktop\Programing\SoftUni\QA\Programming Fundamentals and Unit Testing\VSrepo\SecondProjectCS\ConsoleApp1\CenturiesToMinutes.cs\obj\Debug\net6.0\CenturiesToMinutes.cs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Goro\Desktop\Programing\SoftUni\QA\Programming Fundamentals and Unit Testing\VSrepo\SecondProjectCS\ConsoleApp1\CenturiesToMinutes.cs\obj\Debug\net6.0\CenturiesToMinutes.cs.AssemblyInfoInputs.cache
+C:\Users\Goro\Desktop\Programing\SoftUni\QA\Programming Fundamentals and Unit Testing\VSrepo\SecondProjectCS\ConsoleApp1\CenturiesToMinutes.cs\obj\Debug\net6.0\CenturiesToMinutes.cs.AssemblyInfo.cs
+C:\Users\Goro\Desktop\Programing\SoftUni\QA\Programming Fundamentals and Unit Testing\VSrepo\SecondProjectCS\ConsoleApp1\CenturiesToMinutes.cs\obj\Debug\net6.0\CenturiesToMinutes.cs.csproj.CoreCompileInputs.cache
+C:\Users\Goro\Desktop\Programing\SoftUni\QA\Programming Fundamentals and Unit Testing\VSrepo\SecondProjectCS\ConsoleApp1\CenturiesToMinutes.cs\obj\Debug\net6.0\CenturiesToMinutes.cs.dll
+C:\Users\Goro\Desktop\Programing\SoftUni\QA\Programming Fundamentals and Unit Testing\VSrepo\SecondProjectCS\ConsoleApp1\CenturiesToMinutes.cs\obj\Debug\net6.0\refint\CenturiesToMinutes.cs.dll
+C:\Users\Goro\Desktop\Programing\SoftUni\QA\Programming Fundamentals and Unit Testing\VSrepo\SecondProjectCS\ConsoleApp1\CenturiesToMinutes.cs\obj\Debug\net6.0\CenturiesToMinutes.cs.pdb
+C:\Users\Goro\Desktop\Programing\SoftUni\QA\Programming Fundamentals and Unit Testing\VSrepo\SecondProjectCS\ConsoleApp1\CenturiesToMinutes.cs\obj\Debug\net6.0\CenturiesToMinutes.cs.genruntimeconfig.cache
+C:\Users\Goro\Desktop\Programing\SoftUni\QA\Programming Fundamentals and Unit Testing\VSrepo\SecondProjectCS\ConsoleApp1\CenturiesToMinutes.cs\obj\Debug\net6.0\ref\CenturiesToMinutes.cs.dll

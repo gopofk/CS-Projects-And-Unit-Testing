@@ -1,0 +1,14 @@
+C:\Users\Goro\Desktop\Programing\SoftUni\QA\Programming Fundamentals and Unit Testing\VSrepo\SecondProjectCS\ConsoleApp1\LargestNumberOutOfThree\bin\Debug\net6.0\LargestNumberOutOfThree.exe
+C:\Users\Goro\Desktop\Programing\SoftUni\QA\Programming Fundamentals and Unit Testing\VSrepo\SecondProjectCS\ConsoleApp1\LargestNumberOutOfThree\bin\Debug\net6.0\LargestNumberOutOfThree.deps.json
+C:\Users\Goro\Desktop\Programing\SoftUni\QA\Programming Fundamentals and Unit Testing\VSrepo\SecondProjectCS\ConsoleApp1\LargestNumberOutOfThree\bin\Debug\net6.0\LargestNumberOutOfThree.runtimeconfig.json
+C:\Users\Goro\Desktop\Programing\SoftUni\QA\Programming Fundamentals and Unit Testing\VSrepo\SecondProjectCS\ConsoleApp1\LargestNumberOutOfThree\bin\Debug\net6.0\LargestNumberOutOfThree.dll
+C:\Users\Goro\Desktop\Programing\SoftUni\QA\Programming Fundamentals and Unit Testing\VSrepo\SecondProjectCS\ConsoleApp1\LargestNumberOutOfThree\bin\Debug\net6.0\LargestNumberOutOfThree.pdb
+C:\Users\Goro\Desktop\Programing\SoftUni\QA\Programming Fundamentals and Unit Testing\VSrepo\SecondProjectCS\ConsoleApp1\LargestNumberOutOfThree\obj\Debug\net6.0\LargestNumberOutOfThree.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Goro\Desktop\Programing\SoftUni\QA\Programming Fundamentals and Unit Testing\VSrepo\SecondProjectCS\ConsoleApp1\LargestNumberOutOfThree\obj\Debug\net6.0\LargestNumberOutOfThree.AssemblyInfoInputs.cache
+C:\Users\Goro\Desktop\Programing\SoftUni\QA\Programming Fundamentals and Unit Testing\VSrepo\SecondProjectCS\ConsoleApp1\LargestNumberOutOfThree\obj\Debug\net6.0\LargestNumberOutOfThree.AssemblyInfo.cs
+C:\Users\Goro\Desktop\Programing\SoftUni\QA\Programming Fundamentals and Unit Testing\VSrepo\SecondProjectCS\ConsoleApp1\LargestNumberOutOfThree\obj\Debug\net6.0\LargestNumberOutOfThree.csproj.CoreCompileInputs.cache
+C:\Users\Goro\Desktop\Programing\SoftUni\QA\Programming Fundamentals and Unit Testing\VSrepo\SecondProjectCS\ConsoleApp1\LargestNumberOutOfThree\obj\Debug\net6.0\LargestNumberOutOfThree.dll
+C:\Users\Goro\Desktop\Programing\SoftUni\QA\Programming Fundamentals and Unit Testing\VSrepo\SecondProjectCS\ConsoleApp1\LargestNumberOutOfThree\obj\Debug\net6.0\refint\LargestNumberOutOfThree.dll
+C:\Users\Goro\Desktop\Programing\SoftUni\QA\Programming Fundamentals and Unit Testing\VSrepo\SecondProjectCS\ConsoleApp1\LargestNumberOutOfThree\obj\Debug\net6.0\LargestNumberOutOfThree.pdb
+C:\Users\Goro\Desktop\Programing\SoftUni\QA\Programming Fundamentals and Unit Testing\VSrepo\SecondProjectCS\ConsoleApp1\LargestNumberOutOfThree\obj\Debug\net6.0\LargestNumberOutOfThree.genruntimeconfig.cache
+C:\Users\Goro\Desktop\Programing\SoftUni\QA\Programming Fundamentals and Unit Testing\VSrepo\SecondProjectCS\ConsoleApp1\LargestNumberOutOfThree\obj\Debug\net6.0\ref\LargestNumberOutOfThree.dll

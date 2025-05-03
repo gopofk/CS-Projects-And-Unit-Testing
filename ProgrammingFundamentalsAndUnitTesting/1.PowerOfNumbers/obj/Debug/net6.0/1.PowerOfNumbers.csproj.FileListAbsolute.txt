@@ -1,0 +1,14 @@
+C:\Users\Goro\Desktop\Programing\SoftUni\QA\Programming Fundamentals and Unit Testing\VSrepo\SecondProjectCS\ConsoleApp1\1.PowerOfNumbers\bin\Debug\net6.0\1.PowerOfNumbers.exe
+C:\Users\Goro\Desktop\Programing\SoftUni\QA\Programming Fundamentals and Unit Testing\VSrepo\SecondProjectCS\ConsoleApp1\1.PowerOfNumbers\bin\Debug\net6.0\1.PowerOfNumbers.deps.json
+C:\Users\Goro\Desktop\Programing\SoftUni\QA\Programming Fundamentals and Unit Testing\VSrepo\SecondProjectCS\ConsoleApp1\1.PowerOfNumbers\bin\Debug\net6.0\1.PowerOfNumbers.runtimeconfig.json
+C:\Users\Goro\Desktop\Programing\SoftUni\QA\Programming Fundamentals and Unit Testing\VSrepo\SecondProjectCS\ConsoleApp1\1.PowerOfNumbers\bin\Debug\net6.0\1.PowerOfNumbers.dll
+C:\Users\Goro\Desktop\Programing\SoftUni\QA\Programming Fundamentals and Unit Testing\VSrepo\SecondProjectCS\ConsoleApp1\1.PowerOfNumbers\bin\Debug\net6.0\1.PowerOfNumbers.pdb
+C:\Users\Goro\Desktop\Programing\SoftUni\QA\Programming Fundamentals and Unit Testing\VSrepo\SecondProjectCS\ConsoleApp1\1.PowerOfNumbers\obj\Debug\net6.0\1.PowerOfNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Goro\Desktop\Programing\SoftUni\QA\Programming Fundamentals and Unit Testing\VSrepo\SecondProjectCS\ConsoleApp1\1.PowerOfNumbers\obj\Debug\net6.0\1.PowerOfNumbers.AssemblyInfoInputs.cache
+C:\Users\Goro\Desktop\Programing\SoftUni\QA\Programming Fundamentals and Unit Testing\VSrepo\SecondProjectCS\ConsoleApp1\1.PowerOfNumbers\obj\Debug\net6.0\1.PowerOfNumbers.AssemblyInfo.cs
+C:\Users\Goro\Desktop\Programing\SoftUni\QA\Programming Fundamentals and Unit Testing\VSrepo\SecondProjectCS\ConsoleApp1\1.PowerOfNumbers\obj\Debug\net6.0\1.PowerOfNumbers.csproj.CoreCompileInputs.cache
+C:\Users\Goro\Desktop\Programing\SoftUni\QA\Programming Fundamentals and Unit Testing\VSrepo\SecondProjectCS\ConsoleApp1\1.PowerOfNumbers\obj\Debug\net6.0\1.PowerOfNumbers.dll
+C:\Users\Goro\Desktop\Programing\SoftUni\QA\Programming Fundamentals and Unit Testing\VSrepo\SecondProjectCS\ConsoleApp1\1.PowerOfNumbers\obj\Debug\net6.0\refint\1.PowerOfNumbers.dll
+C:\Users\Goro\Desktop\Programing\SoftUni\QA\Programming Fundamentals and Unit Testing\VSrepo\SecondProjectCS\ConsoleApp1\1.PowerOfNumbers\obj\Debug\net6.0\1.PowerOfNumbers.pdb
+C:\Users\Goro\Desktop\Programing\SoftUni\QA\Programming Fundamentals and Unit Testing\VSrepo\SecondProjectCS\ConsoleApp1\1.PowerOfNumbers\obj\Debug\net6.0\1.PowerOfNumbers.genruntimeconfig.cache
+C:\Users\Goro\Desktop\Programing\SoftUni\QA\Programming Fundamentals and Unit Testing\VSrepo\SecondProjectCS\ConsoleApp1\1.PowerOfNumbers\obj\Debug\net6.0\ref\1.PowerOfNumbers.dll

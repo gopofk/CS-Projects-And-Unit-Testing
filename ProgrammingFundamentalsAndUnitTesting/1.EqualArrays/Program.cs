@@ -1,0 +1,41 @@
+﻿int[] first = Console.ReadLine()
+    .Split(" ")
+    .Select(int.Parse)
+    .ToArray();
+
+int[] second = Console.ReadLine()
+    .Split(" ")
+    .Select(int.Parse)
+    .ToArray();
+
+if (first.SequenceEqual(second))
+{
+    Console.WriteLine("Arrays are identical.");
+}
+else
+{
+    Console.WriteLine("Arrays are not identical.");
+}
+
+
+
+// SECOND SOLUTION
+//int[] firstArray = Console.ReadLine()
+//    .Split()
+//    .Select(int.Parse)
+//    .ToArray();
+
+//int[] secondArray = Console.ReadLine()
+//    .Split()
+//    .Select(int.Parse)
+//    .ToArray();
+
+//for (int i = 0; i < firstArray.Length; i++)
+//{
+//    if (firstArray[i] != secondArray[i])
+//    {
+//        Console.WriteLine("Arrays are not identical.");
+//        return;
+//    }
+//}
+//Console.WriteLine("Arrays are identical.");

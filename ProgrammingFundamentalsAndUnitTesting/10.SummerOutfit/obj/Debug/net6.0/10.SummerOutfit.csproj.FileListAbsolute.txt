@@ -1,0 +1,4 @@
+C:\Users\Goro\Desktop\Programing\SoftUni\QA\Programming Fundamentals and Unit Testing\VSrepo\SecondProjectCS\ConsoleApp1\10.SummerOutfit\obj\Debug\net6.0\10.SummerOutfit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Goro\Desktop\Programing\SoftUni\QA\Programming Fundamentals and Unit Testing\VSrepo\SecondProjectCS\ConsoleApp1\10.SummerOutfit\obj\Debug\net6.0\10.SummerOutfit.AssemblyInfoInputs.cache
+C:\Users\Goro\Desktop\Programing\SoftUni\QA\Programming Fundamentals and Unit Testing\VSrepo\SecondProjectCS\ConsoleApp1\10.SummerOutfit\obj\Debug\net6.0\10.SummerOutfit.AssemblyInfo.cs
+C:\Users\Goro\Desktop\Programing\SoftUni\QA\Programming Fundamentals and Unit Testing\VSrepo\SecondProjectCS\ConsoleApp1\10.SummerOutfit\obj\Debug\net6.0\10.SummerOutfit.csproj.CoreCompileInputs.cache

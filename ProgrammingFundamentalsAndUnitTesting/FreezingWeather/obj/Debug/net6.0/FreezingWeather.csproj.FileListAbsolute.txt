@@ -1,0 +1,28 @@
+C:\Users\Goro\Desktop\Programing\SoftUni\QA\Programming Fundamentals and Unit Testing\VSrepo\SecondProjectCS\ConsoleApp1\FreezingWeather\bin\Debug\net6.0\FreezingWeather.exe
+C:\Users\Goro\Desktop\Programing\SoftUni\QA\Programming Fundamentals and Unit Testing\VSrepo\SecondProjectCS\ConsoleApp1\FreezingWeather\bin\Debug\net6.0\FreezingWeather.deps.json
+C:\Users\Goro\Desktop\Programing\SoftUni\QA\Programming Fundamentals and Unit Testing\VSrepo\SecondProjectCS\ConsoleApp1\FreezingWeather\bin\Debug\net6.0\FreezingWeather.runtimeconfig.json
+C:\Users\Goro\Desktop\Programing\SoftUni\QA\Programming Fundamentals and Unit Testing\VSrepo\SecondProjectCS\ConsoleApp1\FreezingWeather\bin\Debug\net6.0\FreezingWeather.dll
+C:\Users\Goro\Desktop\Programing\SoftUni\QA\Programming Fundamentals and Unit Testing\VSrepo\SecondProjectCS\ConsoleApp1\FreezingWeather\bin\Debug\net6.0\FreezingWeather.pdb
+C:\Users\Goro\Desktop\Programing\SoftUni\QA\Programming Fundamentals and Unit Testing\VSrepo\SecondProjectCS\ConsoleApp1\FreezingWeather\obj\Debug\net6.0\FreezingWeather.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Goro\Desktop\Programing\SoftUni\QA\Programming Fundamentals and Unit Testing\VSrepo\SecondProjectCS\ConsoleApp1\FreezingWeather\obj\Debug\net6.0\FreezingWeather.AssemblyInfoInputs.cache
+C:\Users\Goro\Desktop\Programing\SoftUni\QA\Programming Fundamentals and Unit Testing\VSrepo\SecondProjectCS\ConsoleApp1\FreezingWeather\obj\Debug\net6.0\FreezingWeather.AssemblyInfo.cs
+C:\Users\Goro\Desktop\Programing\SoftUni\QA\Programming Fundamentals and Unit Testing\VSrepo\SecondProjectCS\ConsoleApp1\FreezingWeather\obj\Debug\net6.0\FreezingWeather.csproj.CoreCompileInputs.cache
+C:\Users\Goro\Desktop\Programing\SoftUni\QA\Programming Fundamentals and Unit Testing\VSrepo\SecondProjectCS\ConsoleApp1\FreezingWeather\obj\Debug\net6.0\FreezingWeather.dll
+C:\Users\Goro\Desktop\Programing\SoftUni\QA\Programming Fundamentals and Unit Testing\VSrepo\SecondProjectCS\ConsoleApp1\FreezingWeather\obj\Debug\net6.0\refint\FreezingWeather.dll
+C:\Users\Goro\Desktop\Programing\SoftUni\QA\Programming Fundamentals and Unit Testing\VSrepo\SecondProjectCS\ConsoleApp1\FreezingWeather\obj\Debug\net6.0\FreezingWeather.pdb
+C:\Users\Goro\Desktop\Programing\SoftUni\QA\Programming Fundamentals and Unit Testing\VSrepo\SecondProjectCS\ConsoleApp1\FreezingWeather\obj\Debug\net6.0\FreezingWeather.genruntimeconfig.cache
+C:\Users\Goro\Desktop\Programing\SoftUni\QA\Programming Fundamentals and Unit Testing\VSrepo\SecondProjectCS\ConsoleApp1\FreezingWeather\obj\Debug\net6.0\ref\FreezingWeather.dll
+C:\Users\Goro\Desktop\Programing\ProgrammingAndUnitTesting\ProgrammingFundamentalsAndUnitTesting\FreezingWeather\bin\Debug\net6.0\FreezingWeather.exe
+C:\Users\Goro\Desktop\Programing\ProgrammingAndUnitTesting\ProgrammingFundamentalsAndUnitTesting\FreezingWeather\bin\Debug\net6.0\FreezingWeather.deps.json
+C:\Users\Goro\Desktop\Programing\ProgrammingAndUnitTesting\ProgrammingFundamentalsAndUnitTesting\FreezingWeather\bin\Debug\net6.0\FreezingWeather.runtimeconfig.json
+C:\Users\Goro\Desktop\Programing\ProgrammingAndUnitTesting\ProgrammingFundamentalsAndUnitTesting\FreezingWeather\bin\Debug\net6.0\FreezingWeather.dll
+C:\Users\Goro\Desktop\Programing\ProgrammingAndUnitTesting\ProgrammingFundamentalsAndUnitTesting\FreezingWeather\bin\Debug\net6.0\FreezingWeather.pdb
+C:\Users\Goro\Desktop\Programing\ProgrammingAndUnitTesting\ProgrammingFundamentalsAndUnitTesting\FreezingWeather\obj\Debug\net6.0\FreezingWeather.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Goro\Desktop\Programing\ProgrammingAndUnitTesting\ProgrammingFundamentalsAndUnitTesting\FreezingWeather\obj\Debug\net6.0\FreezingWeather.AssemblyInfoInputs.cache
+C:\Users\Goro\Desktop\Programing\ProgrammingAndUnitTesting\ProgrammingFundamentalsAndUnitTesting\FreezingWeather\obj\Debug\net6.0\FreezingWeather.AssemblyInfo.cs
+C:\Users\Goro\Desktop\Programing\ProgrammingAndUnitTesting\ProgrammingFundamentalsAndUnitTesting\FreezingWeather\obj\Debug\net6.0\FreezingWeather.csproj.CoreCompileInputs.cache
+C:\Users\Goro\Desktop\Programing\ProgrammingAndUnitTesting\ProgrammingFundamentalsAndUnitTesting\FreezingWeather\obj\Debug\net6.0\FreezingWeather.dll
+C:\Users\Goro\Desktop\Programing\ProgrammingAndUnitTesting\ProgrammingFundamentalsAndUnitTesting\FreezingWeather\obj\Debug\net6.0\refint\FreezingWeather.dll
+C:\Users\Goro\Desktop\Programing\ProgrammingAndUnitTesting\ProgrammingFundamentalsAndUnitTesting\FreezingWeather\obj\Debug\net6.0\FreezingWeather.pdb
+C:\Users\Goro\Desktop\Programing\ProgrammingAndUnitTesting\ProgrammingFundamentalsAndUnitTesting\FreezingWeather\obj\Debug\net6.0\FreezingWeather.genruntimeconfig.cache
+C:\Users\Goro\Desktop\Programing\ProgrammingAndUnitTesting\ProgrammingFundamentalsAndUnitTesting\FreezingWeather\obj\Debug\net6.0\ref\FreezingWeather.dll
